@@ -102,5 +102,5 @@ int main()
 		printf("%d\n",stack->data[i]);
 	}
 	////////////////////////////////
-	return 0;
+	system ("PAUSE");
 }
